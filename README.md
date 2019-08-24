@@ -1,2 +1,2 @@
 # mySite
-my Django Dummy Project
+my Django Project Boilerplate
